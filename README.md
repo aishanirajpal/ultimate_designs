@@ -24,6 +24,5 @@ pip install pygame
 python ULTIMATE_DESIGNS.py
 
 ## 📌 Notes
-This project is designed as a prototype/demo for interior design visualization.
-Data is stored in CSV format; no database integration.
-Admin and user navigation handled via Pygame states (admin_pg, user_pg, etc.).
+-Data is stored in CSV format.
+-Admin and user navigation handled via Pygame states (admin_pg, user_pg, etc.).
