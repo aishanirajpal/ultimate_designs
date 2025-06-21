@@ -24,5 +24,5 @@ pip install pygame
 python ULTIMATE_DESIGNS.py
 
 ## 📌 Notes
--Data is stored in CSV format.
--Admin and user navigation handled via Pygame states (admin_pg, user_pg, etc.).
+- Data is stored in CSV format.
+- Admin and user navigation handled via Pygame states (admin_pg, user_pg, etc.).
